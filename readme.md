@@ -1,7 +1,7 @@
 # Reinforcement learning for Radiation Source Detection
 By Zheng Liu and Shiva Abbaszadeh (NPRE, UIUC)
 
-Current radiation source survey strategies either require human efforts or are not efficient and flexible enough to adjust survey paths based on recent measurements. Reinforcement learning, which studies the problem of how agents ought to take the optimized action so that a goal can be achieved efficiently, provides an alternative data-driven solution to conduct radiation detection tasks with no human intervention. This code provides the simulated radiation environment and a double Q-learning algorithm for automated source searching.
+Current radiation source survey strategies either require human efforts or are not efficient and flexible enough to adjust survey paths based on recent measurements. Reinforcement learning, which studies the problem of how agents ought to take the optimized action so that a goal can be achieved efficiently, provides an alternative data-driven solution to conduct radiation detection tasks with no human intervention. This code provides the simulated radiation environment and a double Q-learning algorithm for automated source searching. This work was initially described in this [paper](https://www.mdpi.com/1424-8220/19/4/960).
 
 ### Citing this work
 If you find this work useful in your research, please consider citing:
